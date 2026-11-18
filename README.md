@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261117/alchemn/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 [![reward](https://make.fun/badge/news-image-20261117/alchemn/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
-Sum up 17 November's world news in one image: a dense newspaper front page for Tuesday, 17 November 2026 — 30 stories from the Middle East, Europe, Asia, the Americas and Africa. The U.S. strikes Iran as the Gulf burns (Qeshm Island, Bahrain, a fourth tanker ablaze in the Strait of Hormuz), Ukraine hits the Kerch Bridge again, the West urges Gaza aid, Nvidia's chief quits in a spy scandal, and Trump opens his Asia trip — plus 25 more of the day's stories. Original illustration, drawn as a poster in `poster.html`; `main.ts` copies the rendered `entry.png` to the output.
+Sum up 17 November's world news in one image: a dense newspaper front page for Tuesday, 17 November 2026 — 43 stories from six continents, with a world map marking where the day happened. The U.S. strikes Iran as the Gulf burns (Qeshm Island, Bahrain, a fourth tanker ablaze in the Strait of Hormuz), Ukraine hits the Kerch Bridge again, the West urges Gaza aid, Nvidia's chief quits in a spy scandal, and Trump opens his Asia trip — plus 38 more of the day's stories, from French pay protests to a measles milestone in the U.S. and a mine-repair deal in Papua New Guinea. Original illustration, drawn as a poster in `poster.html` (world map rendered from public-domain Natural Earth data); `main.ts` copies the rendered `entry.png` to the output.
 
 ## Run it
 
